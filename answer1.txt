@@ -1,0 +1,5 @@
+1. What is Programming language?
+A programming language is a set of rules, symbols, and grammars that allow programmers to communicate with computers and turn ideas into instructions that computers can understand.
+Types: Programming languages are often classified as imperative, functional, logic, or object-oriented.
+Design: Computer architecture has influenced the design of programming languages. 
+Examples: J and Java are examples of programming languages. 

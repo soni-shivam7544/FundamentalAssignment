@@ -1,0 +1,8 @@
+2.Why do we need a programming language?
+Programming languages are needed because computers can't understand human language, so they need to be translated into binary code to be followed by computers. Programming languages are used to create apps, websites, software, and more. 
+Here are some reasons why programming languages are important: 
+Automation: Programming can be used to create simple scripts that automate tasks. 
+Data processing: Programming can be used to handle data processing, artificial intelligence, and machine learning. 
+Academic research: Programming can be used in advanced experiments and simulations. 
+Different tools for different jobs: Different programming languages are used for different purposes, such as building websites, financial trading, and analyzing statistics. 
+Creative activity: Writing programs can be a creative and rewarding activity. 

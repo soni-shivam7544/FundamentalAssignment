@@ -1,0 +1,2 @@
+6. Explain about the main() method in Java?
+The Java main method is usually the first method you learn about when you start programming in Java because its the entry point for executing a Java program. The main method can contain code to execute or call other methods, and it can be placed in any class that's part of a program.

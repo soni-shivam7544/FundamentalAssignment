@@ -1,0 +1,13 @@
+3. What are the features of Java?
+Java has many features, including: 
+Platform independence: Java programs can run on any machine or operating system without modification. 
+Object-oriented: Java focuses on data and the methods that manipulate it, rather than procedures. 
+Multithreading: Java allows multiple threads to execute different parts of the same program at the same time. 
+Robust: Java is designed to be reliable and can handle runtime errors by checking code during compilation and runtime. 
+Simple: Java's syntax is designed to be easy to understand. 
+Compiled and interpreted: Java combines the power of compiled languages with the flexibility of interpreted languages. 
+Automatic memory management: Java automatically manages memory. 
+Security: Java is designed to be secure. 
+Rich API: Java has a rich API. 
+High performance: Java is high performance. 
+Dynamic: Java is dynamic and can adapt to new environments. 
